@@ -1,0 +1,10 @@
+body{
+	background-color: black;
+}
+canvas {
+	display: block;
+}
+
+.block-audio {
+	display: none;
+}
